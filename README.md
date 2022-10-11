@@ -7,7 +7,7 @@ Example
 
 1. Create a file called `<problem>.go` for example `1.go`.
 
-2. Implement a solution for the problem. The answer should be printed on a single line to `stdout`.
+2. Implement a solution for the problem. The answer should be the only output and should be printed on a single line to `stdout`.
 
     ```go
     package main
